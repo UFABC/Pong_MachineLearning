@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>47C3D2A9-01B1-4BE4-A720-3AF0D8AEFDC4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Pong</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>781E22FF-8BEA-4BC5-AD3E-71A716018A0E</key>
+		<string>https://github.com/Julianobsg/Pong_MachineLearning.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Pong.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>781E22FF-8BEA-4BC5-AD3E-71A716018A0E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Julianobsg/Pong_MachineLearning.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>781E22FF-8BEA-4BC5-AD3E-71A716018A0E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>781E22FF-8BEA-4BC5-AD3E-71A716018A0E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PongMachineLearning</string>
+		</dict>
+	</array>
+</dict>
+</plist>
